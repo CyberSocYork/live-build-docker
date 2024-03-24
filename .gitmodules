@@ -1,0 +1,3 @@
+[submodule "variant-custom"]
+	path = variant-custom
+	url = git@github.com:Xychic/custom-kali-iso.git

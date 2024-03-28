@@ -5,10 +5,10 @@
 First clone this repository and all the submodules
 
 ```console
-git clone git@github.com:Xychic/live-build-docker.git --recurse-submodules
+git clone git@github.com:CyberSocYork/live-build-docker.git --recurse-submodules
 ```
 
-Once the repository has been cloned you can make any changes within the `variant-custom` directory
+Once the repository has been cloned you can make any changes within the `variant-cybersoc` directory
 
 The docker container that will host the creation of the ISO can be created
 

@@ -1,4 +1,4 @@
-[submodule "variant-custom"]
-	path = variant-custom
-	url = git@github.com:Xychic/custom-kali-iso.git
+[submodule "variant-cybersoc"]
+	path = variant-cybersoc
+	url = git@github.com:CyberSocYork/CyberSoc-Kali-ISO.git
 	branch = master
